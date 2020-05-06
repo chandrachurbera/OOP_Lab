@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>OOP Lab</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Lab_Sessions/OOPS LAB manual  EE694c 2019-2020 (21).docx</name>
+			<type>1</type>
+			<location>C:/Users/hp/Desktop/oops/OOPS LAB manual  EE694c 2019-2020 (21).docx</location>
+		</link>
+	</linkedResources>
+</projectDescription>
